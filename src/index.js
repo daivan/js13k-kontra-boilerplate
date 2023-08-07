@@ -7,7 +7,7 @@ let sprite = Sprite({
   y: 80,
   color: 'blue',  // fill color of the sprite rectangle
   width: 20,     // width and height of the sprite rectangle
-  height: 40,
+  height: 20,
   dx: 2          // move the sprite 2px to the right every frame
 });
 

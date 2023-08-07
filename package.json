@@ -5,6 +5,7 @@
   "private": true,
   "scripts": {
     "start": "webpack serve --open",
+    "watch": "webpack --watch",
     "build": "webpack"
   },
   "keywords": [],
@@ -12,8 +13,7 @@
   "license": "ISC",
   "devDependencies": {
     "webpack": "^5.88.2",
-    "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^4.15.1"
+    "webpack-cli": "^5.1.4"
   },
   "dependencies": {
     "esbuild": "0.18.18",

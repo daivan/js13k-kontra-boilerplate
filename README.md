@@ -1,20 +1,20 @@
 # js13k Webpack Starter
-Vi kör dessa:
+We use these:
  - (Kontra.js) https://straker.github.io/kontra/getting-started
  - (webpack) https://webpack.js.org/guides/getting-started
  - (esbuild) https://esbuild.github.io/getting-started
 
-## Jobba med projektet
-Kicka igång projektet lokalt med:
+## Start working on the project
+Make sure to run the watch command to compile the code everytime you make a change:
 ```
-npn run start
+npn run watch
 ```
-Du borde nu kunna surfa in på `http://localhost:8080/` och se projektet.
+Then you can just run dist/index.html in your web browser
 
-## Exportera och distrubuera
-När du är klar kör du:
+## When you are done
+You can run:
 ```
 npm run build
 ```
 
-Sen packar du bara ihop dist mappen med ditt favorit zip program och skickar in till tävlingen.
+Then just pack the dist folder with your favorite zip program
