@@ -4,6 +4,7 @@ We use these:
  - (webpack) https://webpack.js.org/guides/getting-started
  - (esbuild) https://esbuild.github.io/getting-started
  - (zip) https://github.com/nfriedly/node-bestzip
+ - (sound effects) https://github.com/KilledByAPixel/ZzFX
 
 ## Start working on the project
 Make sure to run the watch command to compile the code everytime you make a change:

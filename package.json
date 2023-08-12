@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "esbuild": "0.18.18",
-    "kontra": "^9.0.0"
+    "kontra": "^9.0.0",
+    "zzfx": "^1.2.0"
   }
 }
